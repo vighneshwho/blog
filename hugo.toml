@@ -1,0 +1,4 @@
+baseURL = 'https://vighnesh.dev/'
+languageCode = 'en-us'
+title = "Vighnesh's Blog"
+theme = "tale"
